@@ -16,10 +16,4 @@ public class LeapYearPrinter {
             }
         }
     }
-
-    public static void main(String[] args) {
-        LeapYearPrinter leapPrinter = new LeapYearPrinter();
-
-        leapPrinter.isLeapYear(1900);
-    }
 }
